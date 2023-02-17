@@ -3,6 +3,6 @@
 * CSS 3
 - SASS
 * BEM
-+ Java Script
++ Bootstrap
 
 Can you view [my portfolio](https://viacheslav1985.github.io/Traveling_in_world/)
